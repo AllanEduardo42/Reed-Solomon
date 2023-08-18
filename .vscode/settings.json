@@ -1,0 +1,12 @@
+{
+    "editor.rulers": [
+        {
+          "column": 80,    // spacing of 1st column from left
+          "color": "#9f0af5"
+        },
+        {
+          "column": 40,    // spacing of 2st column from left
+          "color": "#00000085"
+        },
+     ],
+}
